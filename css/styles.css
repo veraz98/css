@@ -1,0 +1,149 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  color: #b8b5ff;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Homemade Apple', cursive;
+}
+
+h2 {
+  color: #b8b5ff;
+  font-family: 'Orelega One', cursive;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #7868e6;
+  font-family: 'Orelega One', cursive;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #b8b5ff 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a{
+  color: #e4fbff
+  font-family: 'Raleway', sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #7868e6;
+}
+
+.top-container {
+  background-color: #e4fbff;
+  position: relative;
+  padding-top: 100px
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #b8b5ff;
+  padding: 50px 0 20px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.Digital {
+  text-decoration: underline;
+}
+
+.Marketing {
+  text-decoration: underline;
+}
+
+.intro {
+  width: 70%;
+  margin: auto;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px
+}
+
+.vera {
+  width: 12%
+}
+
+.teamwork {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.communication {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.it {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright {
+  color: #e4fbff;
+  font-size: 0.75rem;
+  padding: : 20px 0;
+}
+
+.btn {
+	box-shadow:inset 0px 1px 9px 0px #bddeff;
+	background:linear-gradient(to bottom, #007dc1 5%, #0061a7 100%);
+	background-color:#007dc1;
+	border-radius:11px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:"Raleway";
+	font-size:15px;
+	padding:10px 13px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #217ceb;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #0061a7 5%, #007dc1 100%);
+	background-color:#0061a7;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
